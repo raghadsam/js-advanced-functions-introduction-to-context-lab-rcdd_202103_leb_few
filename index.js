@@ -1,5 +1,5 @@
 // Your code here
-function createEmployeeRecord(array[firstName,familyName,title,payPerHour]){
+function createEmployeeRecord(array){
   obj={
     firstName,
     familyName,
