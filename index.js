@@ -12,5 +12,5 @@ function createEmployeeRecord(firstName,familyName,title,payPerHour){
   obj.familyName=familyName;
   obj.title=title;
   obj.payPerHour=payPerHour;
-  return obj
+  return obj;
 }
